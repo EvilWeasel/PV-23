@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "13c7883f4d8f9448",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cbbca97e69023ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0d7a473db064b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen-Wiederholung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4f76adfa86df647",
+    "type": "split",
+    "children": [
+      {
+        "id": "33fc736992a1202a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55623f190eb7aab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4dfde4d5996676c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e642dce088c5a922",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4621d3d60e47685",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e7ce44ab4665b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5649bfda40641cfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Themen-Wiederholung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97980be6cd75803b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Themen-Wiederholung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97f12787ba679ac1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb646ae8731e415f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Themen-Wiederholung.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e0d7a473db064b76",
+  "lastOpenFiles": [
+    "hypervisor-types.png",
+    "IPv4.png",
+    "crowdstrike.png",
+    "vm-network.png",
+    "IPv4.excalidraw",
+    "crowdstrike.excalidraw",
+    "vm-network.excalidraw",
+    "Welcome.md",
+    "Themen-Wiederholung.md"
+  ]
+}
