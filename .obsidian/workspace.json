@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e4621d3d60e47685",
@@ -147,8 +147,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0d7a473db064b76",
+  "active": "55623f190eb7aab8",
   "lastOpenFiles": [
+    "pseudocode-nassi-shneidermann-alice-bob.png.crswap",
+    "pseudocode-nassi-shneidermann-alice-bob.png",
+    "pseudocode-nassi-shneidermann-alice-bob.excalidraw.crswap",
+    "pseudocode-nassi-shneidermann-alice-bob.excalidraw",
     "hypervisor-types.png",
     "IPv4.png",
     "crowdstrike.png",

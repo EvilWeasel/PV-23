@@ -1,3 +1,5 @@
+-> Bestehen der Prüfung - Kriterien
+
 
 - [ ] Nassi-Shneiderman Diagramm / Struktogramm
 	- [ ] Pseudocode
