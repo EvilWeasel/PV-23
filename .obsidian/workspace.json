@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4787f42d63b54dc2",
+            "id": "8c7199479e514f59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "IPv4 Addressbereiche.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "IPv4 Addressbereiche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "IPv4 Addressbereiche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IPv4 Addressbereiche.md"
               }
             }
           }
@@ -160,12 +160,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4787f42d63b54dc2",
+  "active": "8c7199479e514f59",
   "lastOpenFiles": [
+    "Themen-Wiederholung.md",
+    "IPv4 Addressbereiche.md",
+    "Netzwerksicherheitskonzepte.md",
     "Pasted image 20240911113223.png",
     "Pasted image 20240911113201.png",
-    "Untitled.md",
-    "Themen-Wiederholung.md",
     "pseudocode-nassi-shneidermann-alice-bob.excalidraw.crswap",
     "pseudocode-nassi-shneidermann-alice-bob.png.crswap",
     "pseudocode-nassi-shneidermann-alice-bob.png",

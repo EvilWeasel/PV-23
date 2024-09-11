@@ -11,4 +11,4 @@
 - [ ] Backupstrategien und Datensicherheit
 - [ ] IPv4 Rechnen und IPv6 Addressbereiche
 - [ ] (Homeoffice und Arbeitsplatzregelungen)
-- [ ] (Security)
+- [x] (Security)

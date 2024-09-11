@@ -63,3 +63,9 @@ Als Referenz, nicht für AP1 relevant.
 		- Authentifizierung über Pre-Shared Key
 	- OpenVPN
 	- Wireguard
+- Alle Protokolle können und sollten verschlüsselt sein - Verschiedene Implementationen per Protokoll
+	- MS-CHAPv2
+	- EAP
+	- PAP -> brutal unsicher
+
+
