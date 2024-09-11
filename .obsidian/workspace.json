@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4787f42d63b54dc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen-Wiederholung.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen-Wiederholung.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen-Wiederholung.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,8 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55623f190eb7aab8",
+  "active": "4787f42d63b54dc2",
   "lastOpenFiles": [
+    "Pasted image 20240911113223.png",
+    "Pasted image 20240911113201.png",
+    "Untitled.md",
+    "Themen-Wiederholung.md",
     "pseudocode-nassi-shneidermann-alice-bob.excalidraw.crswap",
     "pseudocode-nassi-shneidermann-alice-bob.png.crswap",
     "pseudocode-nassi-shneidermann-alice-bob.png",
@@ -160,7 +177,6 @@
     "IPv4.excalidraw",
     "crowdstrike.excalidraw",
     "vm-network.excalidraw",
-    "Welcome.md",
-    "Themen-Wiederholung.md"
+    "Welcome.md"
   ]
 }

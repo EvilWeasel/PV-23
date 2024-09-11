@@ -1,8 +1,8 @@
 -> Bestehen der Prüfung - Kriterien
 
 
-- [ ] Nassi-Shneiderman Diagramm / Struktogramm
-	- [ ] Pseudocode
+- [x] Nassi-Shneiderman Diagramm / Struktogramm
+	- [x] Pseudocode
 - [ ] SQL
 - [ ] Bild-Datei Berechnungen
 - [ ] Mibibyte in Megabyte
